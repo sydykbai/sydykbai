@@ -1,0 +1,60 @@
+body {
+    background: url(https://img1.goodfon.ru/wallpaper/nbig/6/a6/kosmos-art-tumannosti-ogni.jpg);
+    background-size: 100% 900px;
+}
+
+canvas {
+    
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    left: 50%;
+    opacity: 10;
+}
+.blok {
+
+   
+    position: relative;
+    width: 608px;
+    height: 50px;
+    
+    
+    margin: 0 auto;
+}
+.lin1{
+    transform: rotate(-180deg);
+}
+.lin2{
+    
+    transform: rotate(0deg);
+}
+.lin3{
+    transform: rotate(90deg);
+}
+.lin4{
+    transform: rotate(-90deg);
+}
+.blok2{
+    display: flex;
+    color: azure;
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    font-size: 40px;
+    background-color: blueviolet;
+    border: 3px solid black;
+    border-radius: 10px;
+    right: 0;
+}
+.pusk{
+    position: relative;
+    display: flex;
+    border: 3px 0px 0 0 solid black;
+    right: 10px;
+}
+.text {
+    position: relative;
+    bottom: 40px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
