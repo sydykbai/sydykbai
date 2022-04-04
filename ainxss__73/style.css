@@ -1,11 +1,11 @@
 body {
         background: url(https://fs09.getcourse.ru/fileservice/file/download/a/298826/sc/467/h/caaddfcac66f5df01d1740fa5c62a29d.jpg);
-        background-size: 100% 900px;
+        
     }
 .video{
     position: relative;
     
-    width: 500px;
+    width: 400px;
     display: block;
     margin: 0 auto;
     text-align: center;
